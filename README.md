@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f3d76640-3b42-492d-994e-6e0ba829dab7" />🏭 **PlantBrain: Unified Industrial Knowledge Intelligence & Asset Brain**
+🏭 **PlantBrain: Unified Industrial Knowledge Intelligence & Asset Brain**
 
 PlantBrain is a high-performance, local-first industrial cognitive platform built for the ET AI Hackathon 2026 (Problem Statement 8: AI for Industrial Knowledge Intelligence).It bridges the gap between unstructured knowledge assets (SOPs, statutory regulatory frameworks, plant compliance manuals) and structured operational data streams (historical maintenance logs, incident records) to give engineers and field technicians a unified decision-making interface.
 
