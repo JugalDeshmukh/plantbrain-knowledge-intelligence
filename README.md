@@ -64,11 +64,6 @@ pip install streamlit pandas duckdb groq pypdf matplotlib
 
 Ensure your file structure matches the layout below:
 
-├── app.py <br>
-└── data/ <br>
-    ├── maintenance_logs.csv  (Automatically generated on initial run) <br>
-    └── protocol.pdf          (Drop your plant SOP or safety guide PDF here) <br>
-
 plantbrain-knowledge-intelligence/ <br>
 ├── data/ <br>
 │   ├── maintenance_logs.csv              # Structured Plant Logs (Auto-generated on run)<br>
