@@ -71,7 +71,7 @@ Ensure your file structure matches the layout below:
 
 5. **Secure Authentication Setup**
 
-To run the AI-enabled tabs (Expert Knowledge Copilot & Compliance Auditor), you must authenticate with a **Groq API Key**. PlantBrain provides two secure methods to load your key without hardcoding it (protecting your credentials from public leaks and GitHub security blocks):
+To run the AI-enabled tabs (Expert Knowledge Copilot & Compliance Auditor), you must authenticate with a **Groq API Key**. PlantBrain provides a secure method to load your key without hardcoding it (protecting your credentials from public leaks and GitHub security blocks):
 
 * **Method: Sidebar UI Input (Recommended for Judges)**
 Simply launch the application normally. In the left sidebar under the **🔑Authentication** section, paste your **Groq API key** directly into the secure, password-masked text field. This key is processed entirely in-memory and will never be saved or committed to GitHub.
