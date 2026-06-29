@@ -57,7 +57,7 @@ source venv/bin/activate
 
 3. **Install Required Dependencies**
 
-pip install streamlit pandas duckdb groq pypdf
+pip install streamlit pandas duckdb groq pypdf matplotlib
 
 
 4. **Configure Your Project Directory**
