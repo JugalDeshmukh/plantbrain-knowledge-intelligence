@@ -69,6 +69,18 @@ Ensure your file structure matches the layout below:
     ├── maintenance_logs.csv  (Automatically generated on initial run) <br>
     └── protocol.pdf          (Drop your plant SOP or safety guide PDF here) <br>
 
+plantbrain-knowledge-intelligence/ <br>
+├── data/ <br>
+│   ├── maintenance_logs.csv              # Structured Plant Logs (Auto-generated on run)<br>
+│   └── protocol.pdf                      # Unstructured Standard Operating Procedure (SOP)<br>
+├── screenshots/ <br>
+│   └── Assets_Analytics_Tab.png          # UI Action Screenshots <br>
+├── PlantBrain Presentation.pptx          # Pitch Deck (PowerPoint Version) <br>
+├── PlantBrain_Project_Documentation.pdf     # Technical Project Whitepaper <br>
+├── README.md                             # Repository Homepage Documentation <br>
+├── app.py                                # Streamlit Core Application <br>
+└── requirements.txt <br>
+
 5. **Secure Authentication Setup**
 
 To run the AI-enabled tabs (Expert Knowledge Copilot & Compliance Auditor), you must authenticate with a **Groq API Key**. PlantBrain provides a secure method to load your key without hardcoding it (protecting your credentials from public leaks and GitHub security blocks):
