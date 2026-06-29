@@ -42,7 +42,7 @@ Hackathon Evaluation Focus: Autonomously audits failure logs, outlines specific 
 
 1. **Clone the Repository**
 
-git clone [https://github.com/JugalDeshmukh/plantbrain-knowledge-intelligence.git](https://github.com/JugalDeshmukh/plantbrain-knowledge-intelligence.git)
+git clone [https://github.com/JugalDeshmukh/plantbrain-knowledge-intelligence.git](https://github.com/JugalDeshmukh/plantbrain-knowledge-intelligence.git) <br>
 cd plantbrain-knowledge-intelligence
 
 
@@ -64,10 +64,10 @@ pip install streamlit pandas duckdb groq pypdf matplotlib
 
 Ensure your file structure matches the layout below:
 
-├── app.py
-└── data/
-    ├── maintenance_logs.csv  (Automatically generated on initial run)
-    └── protocol.pdf          (Drop your plant SOP or safety guide PDF here)
+├── app.py <br>
+└── data/ <br>
+    ├── maintenance_logs.csv  (Automatically generated on initial run) <br>
+    └── protocol.pdf          (Drop your plant SOP or safety guide PDF here) <br>
 
 5. **Secure Authentication Setup**
 
