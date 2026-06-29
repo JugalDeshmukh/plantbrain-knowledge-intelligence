@@ -1,0 +1,4 @@
+log_id,timestamp,asset_id,asset_name,issue_description,status,downtime_hours
+1,2026-06-15,PUMP-04,Primary Water Pump,Cavitation detected and seal leaking,RESOLVED,3.5
+2,2026-06-20,VALVE-12,Main Gas Feed Valve,Slight pressure drop observed during shift change,OPEN,1.2
+3,2026-06-22,COMP-01,Air Compressor,High vibration and thermal cutoff triggered,OPEN,4.0
