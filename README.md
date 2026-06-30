@@ -1,6 +1,6 @@
 🏭 **PlantBrain AI: Unified Industrial Knowledge Intelligence & Regulatory Audit Engine**
 
-PlantBrain AI is a high-performance, local-first industrial cognitive platform built for the ET AI Hackathon 2026 (Problem Statement 8: AI for Industrial Knowledge Intelligence). It bridges the gap between unstructured knowledge assets (SOPs, statutory regulatory frameworks, plant compliance manuals) and structured operational data streams (historical maintenance logs, incident records) to give engineers and field technicians a unified decision-making interface.
+PlantBrain AI is a high-performance, local-first Generative AI industrial cognitive platform. It bridges the gap between unstructured knowledge assets (SOPs, statutory regulatory frameworks, plant compliance manuals) and structured operational data streams (historical maintenance logs, incident records) to give engineers and field technicians a unified decision-making interface.
 
 📌 **Problem Context & Business Value**
 
