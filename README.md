@@ -20,7 +20,7 @@ Inference Pipeline: Groq API Cloud Architecture paired with Llama 3.3 (70B Versa
 
 UI Cockpit: Streamlit Framework structured as a professional industrial control dashboard.
 
-Architecture Diagram Github Link :
+Architecture Diagram Github Link : plantbrain_architecture_diagram.png
 
 📁 **Presentation & Submission Resources**
 
