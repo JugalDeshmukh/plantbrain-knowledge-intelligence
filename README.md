@@ -117,33 +117,6 @@ macOS/Linux:
 export GROQ_API_KEY="your_actual_groq_api_key"
 python -m streamlit run app.py
 
-
-📊 **Hackathon Submission Impact Metrics**
-
-Evaluation Metric
-
-Legacy Operations Baseline
-
-PlantBrain Target Impact
-
-Information Discovery Latency
-
-35 - 45 Minutes
-
-< 2 Seconds (Sub-second via Groq)
-
-Compliance Audit Cycle
-
-Monthly Retrospective Review
-
-Real-Time Automated Evaluation
-
-Cloud Compute Overhead
-
-High Recurring SaaS / DB Fees
-
-Zero-Cost Edge Footprint
-
 👨‍💻 Developed By
 
 Jugal Deshmukh - AI Professional | Data Analyst | Microsoft Fabric Certified
