@@ -10,8 +10,6 @@ PlantBrain AI solves this by consolidating information silos into a unified, ser
 
 🛠️ **System Architecture & Technology Stack**
 
-![PlantBrain AI System Architecture](plantbrain-knowledge-intelligence/blob/main/plantbrain_architecture_diagram.png)
-
 Unlike traditional heavy cloud architectures that incur massive recurring data warehousing costs and network latency, PlantBrain utilizes a decoupled, edge-optimized blueprint:
 
 Storage Layer: Local directory containing unstructured data (.pdf) and structured log transactions (.csv).
@@ -21,6 +19,8 @@ Compute Engine: DuckDB — an embedded, in-process columnar database that runs a
 Inference Pipeline: Groq API Cloud Architecture paired with Llama 3.3 (70B Versatile), providing sub-second engineering-grade reasoning and contextual precision.
 
 UI Cockpit: Streamlit Framework structured as a professional industrial control dashboard.
+
+Architecture Diagram Github Link :
 
 📁 **Presentation & Submission Resources**
 
