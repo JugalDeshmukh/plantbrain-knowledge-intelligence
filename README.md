@@ -117,13 +117,13 @@ macOS/Linux:
 export GROQ_API_KEY="your_actual_groq_api_key"
 python -m streamlit run app.py
 
-👨‍💻 Developed By
+👨‍💻 **Developed By**
 
-Jugal Deshmukh - AI Professional | Data Analyst | Microsoft Fabric Certified
+**Jugal Deshmukh - AI Professional | Data Analyst | Microsoft Fabric Certified**
 
-Contact: mrjugaldeshmukh@gmail.com | +91 9010902225
+**Contact:** mrjugaldeshmukh@gmail.com | +91 9010902225
 
-LinkedIn: jugaldeshmukh
+**LinkedIn:** jugaldeshmukh
 
-GitHub: JugalDeshmukh
+**GitHub:** JugalDeshmukh
 
