@@ -52,7 +52,7 @@ Hackathon Evaluation Focus: Autonomously audits failure logs, outlines specific 
 
 1. Clone the Repository
 
-git clone [https://github.com/JugalDeshmukh/plantbrain-knowledge-intelligence.git](https://github.com/JugalDeshmukh/plantbrain-knowledge-intelligence.git)
+git clone [https://github.com/JugalDeshmukh/plantbrain-knowledge-intelligence.git](https://github.com/JugalDeshmukh/plantbrain-knowledge-intelligence.git) <br>
 cd plantbrain-knowledge-intelligence
 
 
