@@ -93,7 +93,7 @@ plantbrain_hackathon/ <br>
 
 To run the AI-enabled tabs (Expert Knowledge Copilot & Compliance Auditor), you must authenticate with a Groq API Key. PlantBrain provides two secure methods to load your key without hardcoding it:
 
-Method A: Sidebar UI Input (Recommended for Judges)
+**Method A: Sidebar UI Input**
 
 Simply run the application normally:
 
@@ -102,7 +102,7 @@ python -m streamlit run app.py
 
 Paste your Groq API key directly into the secure password-masked text field located under 🔑 Authentication in the left sidebar console. This key is used on-the-fly and is never saved or exposed to git.
 
-Method B: Local Environment Variable (Recommended for Local Dev)
+**Method B: Local Environment Variable (Recommended for Local Dev)**
 
 Set your environment variables before running the application:
 
