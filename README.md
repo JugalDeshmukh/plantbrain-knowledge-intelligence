@@ -10,7 +10,7 @@ PlantBrain AI solves this by consolidating information silos into a unified, ser
 
 🛠️ **System Architecture & Technology Stack**
 
-![PlantBrain AI System Architecture](plantbrain-knowledge-intelligence/blob/main/plantbrain_architecture_diagram.pn)
+![PlantBrain AI System Architecture](plantbrain-knowledge-intelligence/blob/main/plantbrain_architecture_diagram.png)
 
 Unlike traditional heavy cloud architectures that incur massive recurring data warehousing costs and network latency, PlantBrain utilizes a decoupled, edge-optimized blueprint:
 
